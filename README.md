@@ -1,6 +1,6 @@
 # Program Booking Hotel C++ :computer:
-Program booking hotel sederhana menggunakan C++ <br>
-Ditujukan untuk memenuhi tugas besar mata kuliah Dasar Pemrograman
+Simple hotel booking program using C++ <br>
+Intended to fulfill the big task of Basic Programming course
 
 ## How to Use? :memo:
 run main.cpp
