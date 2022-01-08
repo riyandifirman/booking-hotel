@@ -1,4 +1,4 @@
-# Program Booking Hotel C++ :computer:
+# Hotel Booking Program C++ :computer:
 Simple hotel booking program using C++ <br>
 Intended to fulfill the big task of Basic Programming course
 
